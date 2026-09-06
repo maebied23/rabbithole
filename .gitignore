@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+
+# Local tooling and debug output
+.codex/
+.agents/
+.pnpm-store/
+*.log
